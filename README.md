@@ -41,16 +41,12 @@
 <code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 
--->
-
 <br>
 
 <img src="Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
 
-
-<!--
 =======
 ### Hi there 👋
 
